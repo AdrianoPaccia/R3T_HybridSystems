@@ -1,0 +1,9 @@
+numpy
+matplotlib
+rtree
+scipy
+pypolycontain
+osqp
+qpsolvers
+sympy
+gurobipy
